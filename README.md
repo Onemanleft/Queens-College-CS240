@@ -1,0 +1,2 @@
+# Queens-College-CS240
+Queens College CS240 Simina Fluture. MIPS homework to get you started. DON'T COPY, SHE WILL FAIL YOU. Homework 1a: Compute and display 4*int1+int2-3 from the user's integers and a sentinal to exit.    Homework 1b: Prompt the user to enter a constant value. for(int j = 0; j &lt; 10; j++){A[j] = j + constant;}  Displays the elements of the array A[ ], in a one row format    Homework 2: Recursion Compute func(n): if (n = 0) return 8  else return 4*func(n-1) + 3n;
